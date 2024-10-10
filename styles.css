@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+#rectangle {
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    width: 300px;
+    height: 150px;
+    border: 2px solid black;
+}
